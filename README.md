@@ -1,3 +1,3 @@
 # FreedomJB
-![Image of Logo](https://octodex.github.com/images/yaktocat.png)
+![Image of Logo](https://github.com/ModdedBuilder/FreedomJB/blob/master/FreedomLogo.png)
 # WE ARE NOT RESPONSIBLE FOR ANY DAMAGE DONE TO YOUR DEVICE! For More info on coppyright, see the license.
